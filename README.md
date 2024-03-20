@@ -1,1 +1,1 @@
-<a href="https://legendryflyer.github.io/Random-Password-Genrator/">Random Password Genrator</a>
+Click Here: <a href="https://legendryflyer.github.io/Random-Password-Genrator/">Random Password Genrator</a>
